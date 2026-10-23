@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" shape-rendering="crispEdges">
+  <defs>
+    <rect id="black" x="0" y="0" width="1" height="1" fill="#000000" />
+    <rect id="green" x="0" y="0" width="1" height="1" fill="#00FF00" />
+    <rect id="white" x="0" y="0" width="1" height="1" fill="#FFFFFF" />
+  </defs>
+
+  <!-- Head -->
+  <use href="#green" x="16" y="0" width="32" height="32" />
+  <use href="#black" x="16" y="0" width="32" height="1" />
+  <use href="#black" x="16" y="31" width="32" height="1" />
+  <use href="#black" x="16" y="0" width="1" height="32" />
+  <use href="#black" x="47" y="0" width="1" height="32" />
+
+  <!-- Body -->
+  <use href="#green" x="24" y="32" width="16" height="16" />
+  <use href="#black" x="24" y="32" width="16" height="1" />
+  <use href="#black" x="24" y="47" width="16" height="1" />
+  <use href="#black" x="24" y="32" width="1" height="16" />
+  <use href="#black" x="39" y="32" width="1" height="16" />
+
+  <!-- Legs -->
+  <use href="#green" x="24" y="48" width="4" height="16" />
+  <use href="#green" x="36" y="48" width="4" height="16" />
+  <use href="#black" x="24" y="48" width="4" height="1" />
+  <use href="#black" x="24" y="63" width="4" height="1" />
+  <use href="#black" x="24" y="48" width="1" height="16" />
+  <use href="#black" x="27" y="48" width="1" height="16" />
+  <use href="#black" x="36" y="48" width="4" height="1" />
+  <use href="#black" x="36" y="63" width="4" height="1" />
+  <use href="#black" x="36" y="48" width="1" height="16" />
+  <use href="#black" x="39" y="48" width="1" height="16" />
+
+  <!-- Arms -->
+  <use href="#green" x="16" y="32" width="4" height="16" />
+  <use href="#green" x="44" y="32" width="4" height="16" />
+  <use href="#black" x="16" y="32" width="4" height="1" />
+  <use href="#black" x="16" y="47" width="4" height="1" />
+  <use href="#black" x="16" y="32" width="1" height="16" />
+  <use href="#black" x="19" y="32" width="1" height="16" />
+  <use href="#black" x="44" y="32" width="4" height="1" />
+  <use href="#black" x="44" y="47" width="4" height="1" />
+  <use href="#black" x="44" y="32" width="1" height="16" />
+  <use href="#black" x="47" y="32" width="1" height="16" />
+
+  <!-- Eyes -->
+  <use href="#black" x="24" y="8" width="4" height="4" />
+  <use href="#black" x="36" y="8" width="4" height="4" />
+</svg>
